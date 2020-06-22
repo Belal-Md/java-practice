@@ -18,3 +18,10 @@ Functional progrmming: using java.lang.fuction (built in)
 Note: Streams Api helps to write a clean code using these Functional Interface.
 
 5. Stream: A stream is a sequence of objects that supports various methods which can be pipelined to produce the desired result.
+
+
+
+Sources:
+https://www.youtube.com/watch?v=VRpHdSFWGPs
+https://www.geeksforgeeks.org/stream-in-java/
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html
