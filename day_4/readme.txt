@@ -1,7 +1,7 @@
 Data: 6/22/2020
 Functional progrmming: using java.lang.fuction (built in)
 
-1. Create funciotn (Function and BiFunction)
+1. Create function (Function and BiFunction)
   Fucnion: take one input arument and return one result
   BiFunction: take two input argumetns and return one result
   
