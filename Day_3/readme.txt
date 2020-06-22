@@ -1,3 +1,4 @@
+Date: 21/6/20
 anonymus fucntion
 lamba expression 
 funtional programming
