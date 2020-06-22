@@ -11,3 +11,6 @@ Functional progrmming: using java.lang.fuction (built in)
   
 3. Predicate: Boolean-valued funciton with one argument. Using test() method. 
   There is also BiPredicate like BiConsumer or BiFunction.
+  
+4. Supplier: Represents supplier of results. using get() method.
+  Supplier can return any type of data you want. It is simlar to getter function.
