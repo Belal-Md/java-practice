@@ -16,3 +16,5 @@ Functional progrmming: using java.lang.fuction (built in)
   Supplier can return any type of data you want. It is simlar to getter function.
   
 Note: Streams Api helps to write a clean code using these Functional Interface.
+
+5. Stream: A stream is a sequence of objects that supports various methods which can be pipelined to produce the desired result.
